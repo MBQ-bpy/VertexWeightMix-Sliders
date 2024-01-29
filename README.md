@@ -1,5 +1,5 @@
 # VertexWeightMix-Sliders
- This add-on allows you to access the influence of Vertex Weight Mix modifiers in Blender, even when they are collapsed.
+ This add-on allows you to access the influence of Vertex Weight Mix modifiers in Blender, even when they are collapsed.  
  ![preview](https://github.com/MBQ-bpy/VertexWeightMix-Sliders/assets/158010858/51e84f4f-84f0-4098-9f78-a598802a5d98)
 
 # Why is this needed
