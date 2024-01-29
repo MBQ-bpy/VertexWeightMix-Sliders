@@ -12,7 +12,7 @@
  Blender 3.6.7 (Later versions may also work)
 
 # Installation
-- Download vertex_weight_mix_sliders.zip on the release page
+- Download vertex_weight_mix_sliders.zip on [the release page](https://github.com/MBQ-bpy/VertexWeightMix-Sliders/releases)
 - In Blender -> Preferences -> Addons
 - Press Install...
 - Select the zip file
